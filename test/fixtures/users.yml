@@ -3,4 +3,10 @@ bobby:
   last_name: "Ong"
   email: "bobby89@gmail.com"
   profile_name: "bobbyong"
+
+bryan:
+  first_name: "Bryan"
+  last_name: "See"
+  email: "wen_pin_s@hotmail.com"
+  profile_name: "bryansee"
   
